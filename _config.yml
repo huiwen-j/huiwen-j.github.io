@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "huiwenjia_photo.png"
+  avatar           : "/images/huiwenjia_photo.png"
   name             : "Huiwen Jia"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professcor"
