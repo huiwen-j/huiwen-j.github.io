@@ -6,25 +6,19 @@ author_profile: true
 ---
 
 
-### Teaching
+## Teaching
 
-#### UC Berkeley
+### UC Berkeley
 
-Instructor, IND ENG 250 Introduction to Production Planning and Logistics Models, Fall 2024
+IND ENG 250 Introduction to Production Planning and Logistics Models, Instructor, Fall 2024
 
-#### UMich
+### University of Michigan
 
-- Guest Lecturer, IOE 591 Special Topics in Transportation System Optimization, Fall 2021
-  * Instructor: Dr. Siqian Shen
-  * Class size: 30 graduate students
+- IOE 591 Special Topics in Transportation System Optimization, Guest Lecturer, Fall 2021
+- IOE 510 Linear Programming I, Graduate Student Instructor, Winter 2021
+- IOE 511 Continuous Optimization Methods, Graduate Student Instructor, Winter 2020
 
-- Graduate Student Instructor, IOE 510 Linear Programming I, Winter 2021
-  * Instructor: Dr. Ruiwei Jiang
-
-- Graduate Student Instructor, IOE 511 Continuous Optimization Methods, Winter 2020
-  * Instructor: Dr. Romesh Saigal
-
-### Services and Professional Activities
+## Services and Professional Activities
 - Graduate Student Coordinator, Department of Industrial and Operations Engineering, University of Michigan, July 2020 - May 2022
 - Served in the Student Leadership Board, Department of Industrial and Operations Engineering, University of Michigan, July 2020 - May 2022
 - Reviewer for 
