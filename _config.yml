@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "huiwenjia_photo.png"
+  name             : "Huiwen Jia"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
@@ -31,7 +31,7 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
