@@ -12,7 +12,7 @@ title                    : "Huiwen Jia | Home"
 title_separator          : "-"
 name                     : &name "Huiwen Jia"
 description              : &description "Assistant Professcor"
-url                      : https://huiwen-j.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://huiwen-j.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huiwen-j.github.io"
 
