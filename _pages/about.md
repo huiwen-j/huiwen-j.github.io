@@ -10,10 +10,9 @@ redirect_from:
 I'm an Assistant Professor in the [Department of Industrial Engineering and Operations Research](https://ieor.berkeley.edu/) at the [University of California, Berkeley](https://www.berkeley.edu/). Before joining UC Berkeley, I spent two years as an Applied Scientist at Amazon Marketplace Science team working on two-sided marketplace design.
 
 ## Education
-- Ph.D. in Operations Research, University of Michigan, Ann Arbor, 2018 - 2022
+- Ph.D. in Operations Research, University of Michigan, Ann Arbor, 2022
   * Advisors: [Dr. Siqian Shen](https://websites.umich.edu/~siqian/index.html) and [Dr. Cong Shi](https://congshi-research.github.io/)
-- M.S. in Operations Research, University of Michigan, Ann Arbor, 2017 - 2018
-- B.S. in Industrial Engineering, Tsinghua University, China, 2013 - 2017
+- B.S. in Industrial Engineering, Tsinghua University, China, 2017
 
 ## Research Interest
 - **Methodology**: Stochastic and Robust Optimization, Integer Programming, Network Optimization, Online Learning Algorithms 
