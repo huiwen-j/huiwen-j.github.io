@@ -21,7 +21,7 @@ repository               : "huiwen-j.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/500x300.png"
+  avatar           : "huiwenjia_photo.png"
   name             : "Huiwen Jia"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professcor"
