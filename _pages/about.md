@@ -24,5 +24,4 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 * Rackham Travel Grant, University of Michigan, 2019/2021
 - Engineering Graduate Fellowship, University of Michigan, 2018
 - University Presidential Honor Graduate, Tsinghua University, 2017 
-- National Scholarship for Excellent Exchange Student, Ministry of Education of China, 2015
 - First Class Scholarship for Academic Excellence, Tsinghua University, 2014 and 2015
