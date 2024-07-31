@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en). 
+You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=g4BaPJsAAAAJ&hl=en). 
 
 ### Journal Papers
 - Huiwen Jia, Cong Shi, Siqian Shen, "Online Learning and Pricing for Service Systems with Reusable Resources", **Operations Research** 72 (3), 1203-1241. [[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755902)]
