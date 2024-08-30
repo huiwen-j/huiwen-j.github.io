@@ -27,7 +27,7 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 - First Class Scholarship for Academic Excellence, Tsinghua University, 2014 and 2015
 
 
-## Perspective students:
+## Prospective students:
 I’m actively recruiting enthusiastic students passionate about exciting research. 
  - If you are a UC Berkeley student interested in working with me, please feel free to reach out.
  - If you are not yet a UC Berkeley student, please consider apply for Berkeley IEOR PhD program and select my name as one of the faculty that you'd like to work with.
