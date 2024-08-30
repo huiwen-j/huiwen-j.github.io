@@ -21,7 +21,7 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 ## Honors and Awards
 - Michigan Institute for Computational Discovery and Engineering (MICDE) Fellowship, University of Michigan, 2020 
 - Mixed Integer Programming Workshop Student Travel Award, 2019
-* Rackham Travel Grant, University of Michigan, 2019/2021
+- Rackham Travel Grant, University of Michigan, 2019/2021
 - Engineering Graduate Fellowship, University of Michigan, 2018
 - University Presidential Honor Graduate, Tsinghua University, 2017 
 - First Class Scholarship for Academic Excellence, Tsinghua University, 2014 and 2015
