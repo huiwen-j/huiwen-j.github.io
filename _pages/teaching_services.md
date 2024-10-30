@@ -10,7 +10,8 @@ author_profile: true
 
 ### UC Berkeley
 
-IND ENG 250 Introduction to Production Planning and Logistics Models, Instructor, Fall 2024
+IND ENG 250 Introduction to Production Planning and Logistics Models (MS and PhD), Instructor, Fall 2024
+IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2025
 
 ### University of Michigan
 
