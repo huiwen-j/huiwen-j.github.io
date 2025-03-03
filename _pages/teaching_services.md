@@ -11,7 +11,7 @@ author_profile: true
 ### UC Berkeley
 
 - IND ENG 250 Introduction to Production Planning and Logistics Models (MS and PhD), Instructor, Fall 2024
-- * [A collection of facinating student projects](https://sites.google.com/berkeley.edu/ieor-250-projects/home)
+  * [A collection of facinating student projects](https://sites.google.com/berkeley.edu/ieor-250-projects/home)
 - IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2025
 
 ### University of Michigan
