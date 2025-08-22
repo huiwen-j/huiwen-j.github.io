@@ -9,6 +9,16 @@ author_profile: true
 
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=g4BaPJsAAAAJ&hl=en). 
 
+### Preprints:
+* [Decentralized Contextual Bandits with Network Adaptivity](https://www.arxiv.org/abs/2508.13411)\
+  Chuyun Deng, Huiwen Jia
+
+* [Multi-User Contextual Cascading Bandits for Personalized Recommendation](https://arxiv.org/abs/2508.13981)\
+  Jiho Park, Huiwen Jia
+
+* [Decision-Dependent Distributionally Robust Optimization with Application to Dynamic Pricing](https://arxiv.org/abs/2508.06965)\
+  Chengrui Qu, Huiwen Jia, Pengcheng You
+
 ### Journal Papers
 * [Online Learning and Pricing for Service Systems with Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755902)\
   Huiwen Jia, Cong Shi, Siqian Shen\
@@ -17,7 +27,7 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * [A Shared Mobility Based Framework for Evacuation Planning and Operations Under Demand Uncertainty](https://optimization-online.org/2020/08/7963/)\
   Kati Moug, Huiwen Jia, Siqian Shen\
   *IISE Transactions*, 55(10), 971-984, 2023.\
-      Featured in the September 2023 IISE Magazine [[Post](https://www.linkedin.com/posts/iise-transactions-120536213_2023-09-activity-7102292764909850625-xGYZ/?utm_source=share&utm_medium=member_desktop)]
+      - Featured in the September 2023 IISE Magazine [[Post](https://www.linkedin.com/posts/iise-transactions-120536213_2023-09-activity-7102292764909850625-xGYZ/?utm_source=share&utm_medium=member_desktop)]
   
 * [The University of Michigan Implements a Hub-and-Spoke Design to Accommodate Social Distancing in the Campus Bus System under COVID Restrictions](https://arxiv.org/abs/2010.10630) \
   Gongyu Chen, Xinyu Fei, Huiwen Jia, Xian Yu, Siqian Shen\
