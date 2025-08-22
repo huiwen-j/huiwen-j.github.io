@@ -21,11 +21,13 @@ author_profile: true
 - IOE 510 Linear Programming I, Graduate Student Instructor, Winter 2021
 - IOE 511 Continuous Optimization Methods, Graduate Student Instructor, Winter 2020
 
-## Services and Professional Activities
-- Graduate Student Coordinator, Department of Industrial and Operations Engineering, University of Michigan, July 2020 - May 2022
-- Served in the Student Leadership Board, Department of Industrial and Operations Engineering, University of Michigan, July 2020 - May 2022
+## Professional Service
+- Judge for
+  * IISE OR Division Undergraduate Student Research Dissemination Competition (2025)
+  * YinzOR Conference Poster Competition (2025)
 - Reviewer for 
   * Operations Research
+  * INFORMS Journal on Computing
   * Production and Operations Management
   * Transportation Science
   * Operations Research Letters
@@ -34,5 +36,7 @@ author_profile: true
   * IISE Transactions
   * Transportation Research Part B
   * Transportation Research Part C
-
+  * Conference on Neural Information Processing Systems (NeurIPS)
+  * AAAI Conference on Artificial Intelligence (AAAI)
+ 
 
