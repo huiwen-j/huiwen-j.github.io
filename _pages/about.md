@@ -15,8 +15,8 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 - B.S. in Industrial Engineering, Tsinghua University, China, 2017
 
 ## Research Interest
-- **Methodology**: Stochastic and Robust Optimization, Online Learning, Offline Learning 
-- **Application**: Transportation and Logistics, Service Systems, Revenue Management 
+- **Methodology**: Online Learning, Offline Learning, Stochastic and Robust Optimization 
+- **Application**: Service Systems, Transportation and Logistics, Revenue Management 
 
 ## Honors and Awards
 - Michigan Institute for Computational Discovery and Engineering (MICDE) Fellowship, University of Michigan, 2020 
@@ -29,5 +29,5 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 
 ## Prospective students:
 I’m actively recruiting enthusiastic students passionate about exciting research. 
- - If you are a UC Berkeley student interested in working with me, feel free to reach out.
- - If you are not yet a UC Berkeley student, please consider apply for Berkeley IEOR PhD program and select my name as one of the faculty that you'd like to work with.
+ - If you are not yet a UC Berkeley student, please consider apply to Berkeley IEOR PhD program and list my name among the faculty that you'd like to work with.
+ - If you are a current UC Berkeley student with a strong background in OR/Math/Stats and are able to dedicate sufficient time on research, feel free to reach out.
