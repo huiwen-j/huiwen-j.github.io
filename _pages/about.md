@@ -25,9 +25,3 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Op
 - Engineering Graduate Fellowship, University of Michigan, 2018
 - University Presidential Honor Graduate, Tsinghua University, 2017 
 - First Class Scholarship for Academic Excellence, Tsinghua University, 2014 and 2015
-
-
-## Prospective students:
-I’m actively recruiting enthusiastic students passionate about exciting research. 
- - If you are not yet a UC Berkeley student, please consider apply to Berkeley IEOR PhD program and list my name among the faculty that you'd like to work with.
- - If you are a current UC Berkeley student with a strong background in OR/Math/Stats and are able to dedicate sufficient time on research, feel free to reach out.
