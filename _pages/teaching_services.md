@@ -10,10 +10,10 @@ author_profile: true
 
 ### UC Berkeley
 
-- IND ENG 250 Introduction to Production Planning and Logistics Models (MS and PhD), Instructor, Fall 2025, Fall 2024
+- IND ENG 250 Introduction to Production Planning and Logistics Models (MS and PhD), Instructor, Fall 2026, Fall 2025, Fall 2024
   * [A collection of facinating student projects](https://sites.google.com/berkeley.edu/ieor-250-projects/home)
-- IND ENG 150 Production Systems Analysis (Undergraduate), Instructor, Fall 2025
-- IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2025
+- IND ENG 150 Production Systems Analysis (Undergraduate), Instructor, Fall 2026, Fall 2025
+- IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2026, Spring 2025
 
 ### University of Michigan
 
@@ -27,6 +27,7 @@ author_profile: true
   * YinzOR Conference Poster Competition (2025)
 - Reviewer for 
   * Operations Research
+  * Management Science
   * INFORMS Journal on Computing
   * Production and Operations Management
   * Transportation Science
