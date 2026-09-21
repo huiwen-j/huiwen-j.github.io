@@ -16,9 +16,6 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * [Multi-User Contextual Cascading Bandits for Personalized Recommendation](https://arxiv.org/abs/2508.13981)\
   Jiho Park, Huiwen Jia
 
-* [Decision-Dependent Distributionally Robust Optimization with Application to Dynamic Pricing](https://arxiv.org/abs/2508.06965)\
-  Chengrui Qu, Huiwen Jia, Pengcheng You
-
 ### Journal Papers
 * [Online Learning and Pricing for Service Systems with Reusable Resources](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3755902)\
   Huiwen Jia, Cong Shi, Siqian Shen\
@@ -50,6 +47,10 @@ You can also find my publications on [my Google Scholar profile](https://scholar
   *INFORMS Journal on Computing*, 3(2), 757-773, 2020.
 
 ### Conference Proceedings
+* [Decision-Dependent Distributionally Robust Optimization with Application to Dynamic Pricing](https://ieeexplore.ieee.org/document/11312514)\
+  Chengrui Qu, Huiwen Jia, Pengcheng You\
+  *IEEE Conference on Decision and Control (CDC)*, 2025
+
 * [Online Learning and Pricing for Network Revenue Management with Reusable Resources](https://proceedings.neurips.cc/paper_files/paper/2022/file/1f01cdfd07f0ec78124627cf32d0d83c-Paper-Conference.pdf)\
   Huiwen Jia, Cong Shi, Siqian Shen\
   *Neural Information Processing Systems (NeurIPS)*, 2022
