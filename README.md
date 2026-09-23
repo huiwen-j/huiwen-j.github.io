@@ -1,51 +1,46 @@
-# Academic Pages
+# Huiwen Jia's personal website
 
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
+使用 AcademicPages / Minimal Mistakes 构建的 Jekyll 学术主页。
 
-Academic Pages is a Github Pages template for academic websites.
+## 日常维护
 
-# Getting Started
+| 内容 | 文件 |
+|---|---|
+| 首页、教育经历、研究方向 | `_pages/about.md` |
+| Preprints、期刊和会议论文 | `_pages/publications.md` |
+| 教学和审稿记录 | `_pages/teaching_services.md` |
+| 顶部导航 | `_data/navigation.yml` |
+| 姓名、联系方式、头像设置 | `_config.yml` |
+| 当前头像 | `images/huiwenjia_photo.png` |
+| 备用内容模板 | `templates/README.md` |
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+`_includes/`、`_layouts/`、`_sass/` 和 `assets/` 包含当前网站使用的主题、
+样式、脚本和字体。日常添加论文或审稿记录通常不需要修改这些目录。
 
-See more info at https://academicpages.github.io/
+模板示例已整理到 `templates/`，该目录不会发布到网站。未使用的 collection
+目前设为 `output: false`；启用方法见模板说明。`LICENSE` 保留主题许可。
 
-## Running Locally
+## 本地预览
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+在安装 Ruby、Bundler 和所需依赖后，从仓库目录运行：
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+```sh
+bundle install
+bundle exec jekyll serve --host 127.0.0.1 --port 4000
+```
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+打开 `http://127.0.0.1:4000/`。修改 `_config.yml` 后需要重新启动预览服务。
+生成的 `_site/`、`Gemfile.lock` 和 `node_modules/` 不提交。
 
-# Maintenance
+只有修改主题 JavaScript 时，才需要运行 `npm install` 和 `npm run build:js`，
+用源文件重新生成 `assets/js/main.min.js`。
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+## 分支与发布约定
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+- `master` 是正式网站分支。用户只说 “push” 时，仅推送 `master`。
+- `codex/outdoor-trails-map` 是离线户外地图草稿，独立保存。
+- 只有明确要求 “push map” 才推送地图分支；只有明确要求 “merge map” 才合并地图。
+- 本地修改和预览不代表已经发布。
 
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+基于 [AcademicPages](https://github.com/academicpages/academicpages.github.io)
+和 [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)，原许可见 `LICENSE`。
