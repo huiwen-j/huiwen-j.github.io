@@ -28,6 +28,8 @@ author_profile: true
 - Reviewer for 
   * Operations Research
   * Management Science
+  * Manufacturing & Service Operations Management
+  * Mathematics of Operations Research
   * INFORMS Journal on Computing
   * Production and Operations Management
   * Transportation Science
@@ -38,6 +40,7 @@ author_profile: true
   * Transportation Research Part B
   * Transportation Research Part C
   * Conference on Neural Information Processing Systems (NeurIPS)
+  * International Conference on Learning Representations (ICLR)
   * AAAI Conference on Artificial Intelligence (AAAI)
  
 

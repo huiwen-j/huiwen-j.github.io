@@ -10,6 +10,9 @@ author_profile: true
 You can also find my publications on [my Google Scholar profile](https://scholar.google.com/citations?user=g4BaPJsAAAAJ&hl=en). 
 
 ### Preprints:
+* [Learning for Irreversible Subset Expansion: Objective Degeneracy and Thompson Sampling under Information Dilution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7496998)\
+  Yifan Hong, Huiwen Jia, Chen Wang
+
 * [Decentralized Contextual Bandits with Network Adaptivity](https://www.arxiv.org/abs/2508.13411)\
   Chuyun Deng, Huiwen Jia
 
