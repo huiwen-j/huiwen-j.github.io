@@ -13,6 +13,12 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * [Learning for Irreversible Subset Expansion: Objective Degeneracy and Thompson Sampling under Information Dilution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7496998)\
   Yifan Hong, Huiwen Jia, Chen Wang
 
+* [Consideration Circuits: Depth Separation and Universality Beyond a Single Softmax](https://arxiv.org/abs/2610.04143)\
+  Junjie Xiao, Huiwen Jia
+
+* [Ideal Paths for Approximating Logistic Gradient Descent Trajectories at Large Initialization](https://arxiv.org/abs/2610.04142)\
+  Junjie Xiao, Huiwen Jia
+
 * [Decentralized Contextual Bandits with Network Adaptivity](https://www.arxiv.org/abs/2508.13411)\
   Chuyun Deng, Huiwen Jia
 
