@@ -13,6 +13,9 @@ You can also find my publications on [my Google Scholar profile](https://scholar
 * [Learning for Irreversible Subset Expansion: Objective Degeneracy and Thompson Sampling under Information Dilution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7496998)\
   Yifan Hong, Huiwen Jia, Chen Wang
 
+* [Bellman-Centric Learning: Near-Optimal Regret for Linear Bandits with Memory](https://arxiv.org/abs/2610.05659)\
+  Jingyuan Liu, Huiwen Jia
+
 * [Consideration Circuits: Depth Separation and Universality Beyond a Single Softmax](https://arxiv.org/abs/2610.04143)\
   Junjie Xiao, Huiwen Jia
 
