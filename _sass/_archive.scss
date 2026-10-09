@@ -27,6 +27,36 @@
   }
 }
 
+/* Color distinguishes paper links; underlines identify supervised students. */
+.archive.publications {
+  li a {
+    &,
+    &:hover,
+    &:focus,
+    &:active {
+      text-decoration: none;
+    }
+
+    &.publication-author {
+      &,
+      &:visited,
+      &:hover,
+      &:focus,
+      &:active {
+        color: $text-color;
+      }
+    }
+  }
+
+  u {
+    border-bottom: 0;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.16em;
+    text-decoration-skip-ink: auto;
+  }
+}
+
 .archive__subtitle {
   margin: 1.414em 0 0;
   padding-bottom: 0.5em;
