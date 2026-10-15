@@ -14,6 +14,8 @@ author_profile: true
   * [A collection of facinating student projects](https://sites.google.com/berkeley.edu/ieor-250-projects/home)
 - IND ENG 150 Production Systems Analysis (Undergraduate), Instructor, Fall 2026, Fall 2025
 - IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2026, Spring 2025
+- MSE 131 Undergraduate Capstone, Guest Lecturer, Fall 2026
+  * Guest lecture on adaptive experimental design
 
 ### University of Michigan
 
