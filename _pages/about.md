@@ -11,6 +11,8 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Oper
 
 ## Group News
 
+<div class="group-news-scroll" tabindex="0" role="region" aria-labelledby="group-news" aria-describedby="group-news-scroll-hint" markdown="1">
+
 October<br>2026
 : I was invited to give a talk at the College of Engineering's **AI in Engineering Education Workshop** on integrating AI into undergraduate courses.
 
@@ -50,6 +52,10 @@ August<br>2025
 Fall<br>2024
 : I joined UC Berkeley IEOR as an Assistant Professor.
 {: .group-news-list}
+
+</div>
+
+<p id="group-news-scroll-hint">Scroll for earlier updates ↓</p>
 
 ## Honors and Awards
 - Michigan Institute for Computational Discovery and Engineering (MICDE) Fellowship, University of Michigan, 2020 

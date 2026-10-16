@@ -116,7 +116,35 @@
     margin-bottom: 1.5em;
   }
 
+  .group-news-scroll {
+    max-width: 48em;
+    max-height: 20rem;
+    overflow-y: auto;
+    padding-right: 1em;
+    scrollbar-width: thin;
+    scrollbar-color: #bfc5c8 #f3f4f4;
+
+    &:focus-visible {
+      outline: 2px solid $link-color;
+      outline-offset: 4px;
+    }
+
+    &::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+      background: #f3f4f4;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: #bfc5c8;
+      border-radius: 3px;
+    }
+  }
+
   .group-news-list {
+    margin: 0;
     max-width: 48em;
     display: grid;
     grid-template-columns: 5.5em minmax(0, 1fr);
@@ -158,6 +186,12 @@
         margin-bottom: 1.35em;
       }
     }
+  }
+
+  #group-news-scroll-hint {
+    margin: 0.75em 0 0;
+    color: $gray;
+    font-size: 0.75em;
   }
 }
 
