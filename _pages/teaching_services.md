@@ -3,6 +3,7 @@ layout: archive
 title: "Teaching & Services"
 permalink: /teaching_services/
 author_profile: true
+body_class: centered-layout
 ---
 
 

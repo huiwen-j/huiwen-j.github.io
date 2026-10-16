@@ -2,6 +2,7 @@
 permalink: /
 title: "Welcome to Huiwen's Homepage!"
 author_profile: true
+body_class: centered-layout
 redirect_from: 
   - /about/
   - /about.html
@@ -17,7 +18,7 @@ October<br>2026
 : I was invited to give a talk at the College of Engineering's **AI in Engineering Education Workshop** on integrating AI into undergraduate courses.
 
 October<br>2026
-: New preprint of our paper "[Bellman-Centric Learning: Near-Optimal Regret for Linear Bandits with Memory](https://arxiv.org/abs/2610.05659)" with Jingyuan Liu is available on arXiv.
+: New preprint of our paper "[Bellman-Centric Learning: Near-Optimal Regret for Linear Bandits with Memory](https://arxiv.org/abs/2610.05659)" with [Jingyuan Liu](https://jingyuanliu6.github.io/) is available on arXiv.
 
 October<br>2026
 : New preprint of our paper "[Consideration Circuits: Depth Separation and Universality Beyond a Single Softmax](https://arxiv.org/abs/2610.04143)" with Junjie Xiao is available on arXiv.
@@ -29,7 +30,7 @@ September<br>2026
 : Berkeley IEOR featured our AI-assisted teaching simulator, developed with Master of Analytics students Yiran Guo, Wen Chia Huang, Munazza Nadir, and Junxing Wu. [Read the story](https://ieor.berkeley.edu/bringing-ai-into-the-work-of-learning/).
 
 September<br>2026
-: New preprint of our paper "[Learning for Irreversible Subset Expansion: Objective Degeneracy and Thompson Sampling under Information Dilution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7496998)" with Yifan Hong and Chen Wang is available on SSRN.
+: New preprint of our paper "[Learning for Irreversible Subset Expansion: Objective Degeneracy and Thompson Sampling under Information Dilution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7496998)" with [Yifan Hong](https://yfflood.github.io/) and Chen Wang is available on SSRN.
 
 May<br>2026
 : Ph.D. student Xuchen Liu received the **IEOR Faculty Fellowship (first-year award)**. Congratulations, Xuchen!

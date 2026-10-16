@@ -43,6 +43,39 @@
   }
 }
 
+/* Share the centered content width across the main pages. */
+.centered-layout {
+  $text-scale: 1.1;
+  $base-text-fraction: (span(8 of 10) - span(0.5 of 10 wide)) / 100%;
+  $layout-scale: 1 + ($text-scale - 1) * $base-text-fraction;
+  $content-fraction: span(10 of 12) / 100% * $layout-scale;
+
+  @include breakpoint($large) {
+    #main,
+    .masthead__inner-wrap,
+    .page__footer footer {
+      max-width: calc((#{$large} - 2em) * #{$content-fraction} + 2em);
+    }
+
+    #main > .page,
+    #main > .archive {
+      width: percentage($base-text-fraction * $text-scale / $layout-scale);
+      float: right;
+      margin-right: 0;
+      padding-left: 0;
+      padding-right: 0;
+    }
+  }
+
+  @include breakpoint($x-large) {
+    #main,
+    .masthead__inner-wrap,
+    .page__footer footer {
+      max-width: calc((#{$x-large} - 2em) * #{$content-fraction} + 2em);
+    }
+  }
+}
+
 .page__lead {
   font-family: $global-font-family;
   font-size: $type-size-4;
@@ -117,8 +150,8 @@
   }
 
   .group-news-scroll {
-    max-width: 48em;
-    max-height: 20rem;
+    max-width: 100%;
+    max-height: 26rem;
     overflow-y: auto;
     padding-right: 1em;
     scrollbar-width: thin;
@@ -145,7 +178,7 @@
 
   .group-news-list {
     margin: 0;
-    max-width: 48em;
+    max-width: 100%;
     display: grid;
     grid-template-columns: 5.5em minmax(0, 1fr);
     column-gap: 1.25em;
