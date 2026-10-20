@@ -45,5 +45,7 @@ body_class: centered-layout
   * Conference on Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
   * AAAI Conference on Artificial Intelligence (AAAI)
+  * IEEE Conference on Decision and Control (CDC)
+  * American Control Conference (ACC)
  
 
