@@ -140,12 +140,17 @@
   }
 }
 
-/* Homepage news: dates beside concise updates. */
+/* Homepage section headings and news. */
 .page__content {
-  #group-news {
-    scroll-margin-top: 5em;
+  #group-news,
+  #honors-and-awards {
+    font-size: 1.125em;
     border-bottom: 0;
     padding-bottom: 0;
+  }
+
+  #group-news {
+    scroll-margin-top: 5em;
     margin-bottom: 1.5em;
   }
 
