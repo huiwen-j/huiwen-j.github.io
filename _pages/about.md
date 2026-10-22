@@ -16,6 +16,9 @@ I'm an Assistant Professor in the [Department of Industrial Engineering and Oper
 <div class="group-news-scroll" tabindex="0" role="region" aria-labelledby="group-news" aria-describedby="group-news-scroll-hint" markdown="1">
 
 October<br>2026
+: I was invited to participate in the **Transforming Transportation** panel at UC Berkeley Engineering's Fall Dean's Society event. [Event photos](https://engineering.berkeley.edu/connect/give/deans-society/fall-2026-deans-society-transforming-transportation/).
+
+October<br>2026
 : I was invited to give a talk at the College of Engineering's **AI in Engineering Education Workshop** on integrating AI into undergraduate courses.
 
 October<br>2026
@@ -58,6 +61,18 @@ Fall<br>2024
 </div>
 
 <p id="group-news-scroll-hint">Scroll for earlier updates ↓</p>
+
+## Upcoming Events
+
+May 12–14<br>2027
+: I will give an invited talk at the 2027 TALENT Workshop of the INFORMS Transportation Science and Logistics (TSL) Society, hosted by UBC Sauder School of Business in Vancouver, Canada.
+
+May 25–28<br>2027
+: I will give an invited talk at the [2027 Mixed Integer Programming (MIP) Workshop](https://www.mixedinteger.org/2027/), hosted by the University of Iowa in Iowa City.
+
+July 25–30<br>2027
+: I will give an invited talk in the mini-symposium on **Distributionally Robust Optimization and Decision-Dependent Uncertainty** at the [2027 International Symposium on Mathematical Programming (ISMP)](https://ismp2027.mathopt.nl/) in Amsterdam, the Netherlands.
+{: .upcoming-events-list}
 
 ## Honors and Awards
 - Michigan Institute for Computational Discovery and Engineering (MICDE) Fellowship, University of Michigan, 2020 

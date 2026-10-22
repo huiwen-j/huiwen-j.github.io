@@ -149,13 +149,15 @@
   }
 
   #group-news,
+  #upcoming-events,
   #honors-and-awards {
     font-size: 1.125em;
     border-bottom: 0;
     padding-bottom: 0;
   }
 
-  #group-news {
+  #group-news,
+  #upcoming-events {
     scroll-margin-top: 5em;
     margin-bottom: 1.5em;
   }
@@ -187,7 +189,8 @@
     }
   }
 
-  .group-news-list {
+  .group-news-list,
+  .upcoming-events-list {
     margin: 0;
     max-width: 100%;
     display: grid;
