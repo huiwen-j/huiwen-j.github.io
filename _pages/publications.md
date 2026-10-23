@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+browser_title: "Huiwen Jia | Publication"
 permalink: /publications/
 author_profile: true
 body_class: centered-layout

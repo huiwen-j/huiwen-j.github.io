@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Teaching & Services"
+browser_title: "Huiwen Jia | Teaching & Services"
 permalink: /teaching_services/
 author_profile: true
 body_class: centered-layout

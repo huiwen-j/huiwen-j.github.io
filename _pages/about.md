@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Huiwen's Homepage!"
+browser_title: "Huiwen Jia"
 author_profile: true
 body_class: centered-layout
 redirect_from: 
