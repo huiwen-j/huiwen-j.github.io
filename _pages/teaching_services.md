@@ -26,6 +26,7 @@ body_class: centered-layout
 
 ## Professional Service
 - Judge for
+  * INFORMS Annual Meeting Poster Competition (2026)
   * IISE OR Division Undergraduate Student Research Dissemination Competition (2025)
   * YinzOR Conference Poster Competition (2025)
 - Reviewer for 
