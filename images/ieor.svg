@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">IEOR</title>
+  <rect width="64" height="64" fill="#11325E"/>
+  <g fill="none" stroke="#51B2DD" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M7.5 22h7M11 22v20M7.5 42h7"/>
+    <path d="M28 22h-8v20h8M20 32h6.5"/>
+  </g>
+  <g fill="none" stroke="#F3B747" stroke-width="3.5" stroke-linecap="square" stroke-linejoin="miter">
+    <path d="M39 22c-4 0-5.5 3-5.5 10S35 42 39 42s5.5-3 5.5-10S43 22 39 22z"/>
+    <path d="M50 42V22h3c4.5 0 6 2 6 5.5S57.5 33 53 33h-3M53 33l6 9"/>
+  </g>
+</svg>
