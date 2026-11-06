@@ -65,6 +65,13 @@
       padding-left: 0;
       padding-right: 0;
     }
+
+    &.talks-layout #main > .archive {
+      --talks-extra-width: clamp(0px, calc((100vw - 100%) / 2 - 1rem), 14rem);
+      --talks-column-width: calc(#{percentage($base-text-fraction * $text-scale / $layout-scale)} + var(--talks-extra-width));
+      width: calc(var(--talks-column-width) * 0.9);
+      margin-right: calc(var(--talks-column-width) * 0.1 - var(--talks-extra-width));
+    }
   }
 
   @include breakpoint($x-large) {
@@ -73,6 +80,14 @@
     .page__footer footer {
       max-width: calc((#{$x-large} - 2em) * #{$content-fraction} + 2em);
     }
+  }
+}
+
+.talks-layout .archive {
+  font-size: 15px;
+
+  li p {
+    margin-bottom: 0.9em;
   }
 }
 
