@@ -14,6 +14,11 @@ body_class: centered-layout
 
 - IND ENG 250 Introduction to Production Planning and Logistics Models (MS and PhD), Instructor, Fall 2026, Fall 2025, Fall 2024
   * [A collection of facinating student projects](https://sites.google.com/berkeley.edu/ieor-250-projects/home)
+  * **Featured Guest Lectures**
+    - Prof. [Kamessi Zhao](https://kamessizhao.github.io/) (Stanford University), Fall 2025<br>
+      “On the Supply of Autonomous Vehicles in Platforms.”
+    - Prof. [Bob Ziyue Li](https://bonaldli.github.io/) (Technical University of Munich), Fall 2026<br>
+      “The Bitter Lessons in Spatiotemporal Intelligence in Smart Transportation.”
 - IND ENG 150 Production Systems Analysis (Undergraduate), Instructor, Fall 2026, Fall 2025
 - IND ENG 151 Service Operations Design and Analysis (Undergraduate), Instructor, Spring 2026, Spring 2025
 - MSE 131 Undergraduate Capstone, Guest Lecturer, Fall 2026
@@ -30,24 +35,8 @@ body_class: centered-layout
   * INFORMS Annual Meeting Poster Competition (2026)
   * IISE OR Division Undergraduate Student Research Dissemination Competition (2025)
   * YinzOR Conference Poster Competition (2025)
-- Reviewer for 
-  * Operations Research
-  * Management Science
-  * Manufacturing & Service Operations Management
-  * Mathematics of Operations Research
-  * INFORMS Journal on Computing
-  * Production and Operations Management
-  * Transportation Science
-  * Operations Research Letters
-  * Naval Research Logistics
-  * INFORMS Journal on Applied Analytics
-  * IISE Transactions
-  * Transportation Research Part B
-  * Transportation Research Part C
-  * Conference on Neural Information Processing Systems (NeurIPS)
-  * International Conference on Learning Representations (ICLR)
-  * AAAI Conference on Artificial Intelligence (AAAI)
-  * IEEE Conference on Decision and Control (CDC)
-  * American Control Conference (ACC)
+- Reviewer for
+  * **Journals:** Operations Research, Management Science, Manufacturing & Service Operations Management, Mathematics of Operations Research, INFORMS Journal on Computing, Production and Operations Management, Transportation Science, Operations Research Letters, Naval Research Logistics, INFORMS Journal on Applied Analytics, IISE Transactions, Transportation Research Part B, Transportation Research Part C
+  * **Conferences:** Conference on Neural Information Processing Systems (NeurIPS), International Conference on Learning Representations (ICLR), AAAI Conference on Artificial Intelligence (AAAI), IEEE Conference on Decision and Control (CDC), American Control Conference (ACC), INFORMS Optimization Society (IOS) Conference
  
 

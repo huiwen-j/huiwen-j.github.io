@@ -9,17 +9,17 @@ body_class: centered-layout talks-layout
 
 ### Invited Talks & Panels
 
-- **[International Symposium on Mathematical Programming (ISMP)](https://ismp2027.mathopt.nl/)**, Amsterdam, the Netherlands, July 2027 (scheduled). Mini-symposium on Distributionally Robust Optimization and Decision-Dependent Uncertainty.
+- **International Symposium on Mathematical Programming (ISMP)**, Amsterdam, the Netherlands, July 2027 (scheduled). Mini-symposium on Distributionally Robust Optimization and Decision-Dependent Uncertainty.
 
-- **[Mixed Integer Programming (MIP) Workshop](https://www.mixedinteger.org/2027/)**, University of Iowa, Iowa City, IA, May 2027 (scheduled)
+- **Mixed Integer Programming (MIP) Workshop**, University of Iowa, Iowa City, IA, May 2027 (scheduled)
 
 - **INFORMS Transportation Science and Logistics (TSL) Society TALENT Workshop**, UBC Sauder School of Business, Vancouver, Canada, May 2027 (scheduled)
 
-- **[Transforming Transportation](https://engineering.berkeley.edu/connect/give/deans-society/fall-2026-deans-society-transforming-transportation/)**, Fall Dean's Society event, UC Berkeley, October 2026. Panelist.
+- **Transforming Transportation**, Fall Dean's Society event, UC Berkeley, October 2026. Panelist.
 
 - **AI in Engineering Education Workshop**, College of Engineering, UC Berkeley, October 2026. Invited talk on integrating AI into undergraduate courses.
 
-- **[8th YinzOR Conference](https://yinzor.cmuinforms.org/2025/)**, Carnegie Mellon University, Pittsburgh, PA, August 2025. Featured speaker. *Decision-Dependent Distributionally Robust Optimization with Applications to Offline Dynamic Pricing.*
+- **8th YinzOR Conference**, Carnegie Mellon University, Pittsburgh, PA, August 2025. Featured speaker. *Decision-Dependent Distributionally Robust Optimization with Applications to Offline Dynamic Pricing.*
 
 - **IE Frontier Tutorial Seminar**, Department of Industrial Engineering, Tsinghua University, November 2024 (online)
 

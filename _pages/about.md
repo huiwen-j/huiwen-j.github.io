@@ -76,6 +76,7 @@ July 25–30<br>2027
 {: .upcoming-events-list}
 
 ## Honors and Awards
+- AI teaching grant (PI), Berkeley Engineering and CAWIT, 2025–2026.
 - Michigan Institute for Computational Discovery and Engineering (MICDE) Fellowship, University of Michigan, 2020 
 - Mixed Integer Programming Workshop Student Travel Award, 2019
 - Rackham Travel Grant, University of Michigan, 2019/2021
